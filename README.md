@@ -1,2 +1,2 @@
 # CMPE331
-author Güliçn Özpamuk 
+author Gülçin Özpamuk 
